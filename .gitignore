@@ -1,0 +1,20 @@
+# Third-party software, cached manifests, and all generated runtime state
+/local-app/
+/data/
+/patch-report.json
+/windows-amd64.json
+/exe-windows-amd64.json
+/daemon-windows-amd64.json
+/config.json
+*.log
+*.pid
+__pycache__/
+*.py[cod]
+*.part
+*.tmp
+*.exe
+*.dll
+*.pyd
+*.zip
+*.ipa
+.venv/

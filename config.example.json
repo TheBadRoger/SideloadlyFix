@@ -1,0 +1,7 @@
+{
+  "proxy": null,
+  "extractor": null,
+  "timeout_seconds": 20,
+  "check_interval_hours": 24,
+  "automatic_updates": true
+}
